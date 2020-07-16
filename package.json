@@ -1,8 +1,8 @@
 {
   "name": "portfolio-project",
   "version": "1.0.0",
-  "description": "protfolio-project",
-  "main": "index.js",
+  "description": "portfolio project",
+  "main": "gulpfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,9 +11,9 @@
     "url": "git+https://github.com/bettyeverett/portfolio-project.git"
   },
   "keywords": [
-    "portfolio-project"
+    "portfolio"
   ],
-  "author": "charliecaseley",
+  "author": "bethanyeverett",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/bettyeverett/portfolio-project/issues"
