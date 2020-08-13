@@ -22,7 +22,7 @@ function serve(done) {
 
 // SASS WATCH
 gulp.task('sass', function () {
-    var stream = gulp.src('./scss/styles.scss')
+    var stream = gulp.src('scss/index.scss')
         .pipe(sass())
         .pipe(rename('style.css'))
         .pipe(gulp.dest('./css/'));
